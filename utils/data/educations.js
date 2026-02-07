@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Technology (B.Tech) - Computer Science",
+    duration: "2024 - 2027",
+    institution: "KIET Group of Institutions, Ghaziabad",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Diploma in Computer Science Engineering",
+    duration: "2021 - 2024",
+    institution: "Government Polytechnic Bahraich",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary Education (10th)",
+    duration: "2020 - 2021",
+    institution: "Secondary School",
   }
 ]
